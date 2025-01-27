@@ -1,0 +1,5 @@
+raj 345345 2 240 diwali 120 
+ram 123456 5 600 diwali 120 
+ravi 123234 10 1200 diwali 120 
+eva 123456 3 360 diwali 120 
+evaadma 1234567 4 480 diwali 120 
